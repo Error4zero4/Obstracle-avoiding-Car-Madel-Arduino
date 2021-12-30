@@ -1,4 +1,4 @@
-# Obstracle-avoiding-Car-Madel-Arduino!
+# Obstracle-avoiding-Car-Model-Arduino!
 
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/71749153/145681468-1a24e5ce-51a5-47d0-88dd-3e30305f2bb6.png)
